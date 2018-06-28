@@ -1,0 +1,205 @@
+0127107|M6-1.0|75mm|Hex Cap Screw|Steel|Plain
+0135938|M8 - 1.25|35mm|Socket Cap Screw|Alloy Steel|Zinc
+0135940|M8 - 1.25|45mm|Socket Cap Screw|Alloy Steel|Zinc
+0135941|M8 - 1.25|50mm|Socket Cap Screw|Alloy Steel|Zinc
+0135961|M10 - 1.5|70mm|Socket Cap Screw|Alloy Steel|Zinc
+0135973|M12 - 1.75|55mm|Socket Cap Screw|Alloy Steel|Zinc
+0141306|M5 - 0.8|6mm|Button Socket Cap Screw|Alloy Steel|Zinc
+0141310|M5 - 0.8|14mm|Button Socket Cap Screw|Alloy Steel|Zinc
+0141365|M4 - 0.7|14mm|Flat Socket Cap Screw|Alloy Steel|Zinc
+0141367|M4 - 0.7|20mm|Flat Socket Cap Screw|Alloy Steel|Zinc
+0154262|M5 - 0.8|15mm|Socket Cap Screw|Alloy Steel|Black Oxide
+0185220|M10 - 1.5|20mm|Socket Cap Screw|Alloy Steel|Chrome
+1138662|M10-1.5|60mm|Hex Cap Screw|Steel|Zinc
+1139547|M5 - 0.8|20mm|Socket Cap Screw|Alloy Steel|Black Oxide
+1139548|M5 - 0.8|25mm|Socket Cap Screw|Alloy Steel|Black Oxide
+1139618|M10 - 1.5|25mm|Socket Cap Screw|Alloy Steel|Black Oxide
+1139622|M10 - 1.5|45mm|Socket Cap Screw|Alloy Steel|Black Oxide
+1139652|M12 - 1.75|20mm|Socket Cap Screw|Alloy Steel|Black Oxide
+1140305|M6-1.0|20mm|Hex Nut|Steel|Zinc
+11509526|M5 - 0.8|50mm|Button Socket Cap Screw|Stainless Steel|Plain
+11510020|M4 - 0.7|6mm|Button Socket Cap Screw|Stainless Steel|Plain
+11511422|M5 - 0.8|6mm|Button Socket Cap Screw|Stainless Steel|Plain
+11511658|M5 - 0.8|18mm|Flat Socket Cap Screw|Stainless Steel|Plain
+11567627|M5-0.8|16mm|Hex Cap Screw|Stainless Steel|Plain
+11567628|M5-0.8|20mm|Hex Cap Screw|Stainless Steel|Plain
+11567638|M8-1.25|25mm|Hex Cap Screw|Stainless Steel|Plain
+11567645|M10-1.5|30mm|Hex Cap Screw|Stainless Steel|Plain
+11567646|M10-1.5|35mm|Hex Cap Screw|Stainless Steel|Plain
+11567648|M10-1.5|50mm|Hex Cap Screw|Stainless Steel|Plain
+11567655|M8-1.25|50mm|Hex Nut|Stainless Steel|Plain
+11567659|M4 - 0.7|8mm|Socket Cap Screw|Stainless Steel|Plain
+11567660|M4 - 0.7|10mm|Socket Cap Screw|Stainless Steel|Plain
+11567661|M4 - 0.7|12mm|Socket Cap Screw|Stainless Steel|Plain
+11567662|M4 - 0.7|16mm|Socket Cap Screw|Stainless Steel|Plain
+11567663|M4 - 0.7|25mm|Socket Cap Screw|Stainless Steel|Plain
+11567664|M5 - 0.8|10mm|Socket Cap Screw|Stainless Steel|Plain
+11567665|M5 - 0.8|12mm|Socket Cap Screw|Stainless Steel|Plain
+11567666|M5 - 0.8|16mm|Socket Cap Screw|Stainless Steel|Plain
+11567667|M5 - 0.8|20mm|Socket Cap Screw|Stainless Steel|Plain
+11567668|M5 - 0.8|25mm|Socket Cap Screw|Stainless Steel|Plain
+11567669|M5 - 0.8|30mm|Socket Cap Screw|Stainless Steel|Plain
+11567670|M6 - 1.0|10mm|Socket Cap Screw|Stainless Steel|Plain
+11567671|M6 - 1.0|12mm|Socket Cap Screw|Stainless Steel|Plain
+11567672|M6 - 1.0|16mm|Socket Cap Screw|Stainless Steel|Plain
+11567673|M6 - 1.0|20mm|Socket Cap Screw|Stainless Steel|Plain
+11567674|M6 - 1.0|25mm|Socket Cap Screw|Stainless Steel|Plain
+11567675|M6 - 1.0|30mm|Socket Cap Screw|Stainless Steel|Plain
+11567676|M6 - 1.0|35mm|Socket Cap Screw|Stainless Steel|Plain
+11567677|M6 - 1.0|40mm|Socket Cap Screw|Stainless Steel|Plain
+11567678|M6 - 1.0|50mm|Socket Cap Screw|Stainless Steel|Plain
+11567679|M8 - 1.25|20mm|Socket Cap Screw|Stainless Steel|Plain
+11567680|M8 - 1.25|25mm|Socket Cap Screw|Stainless Steel|Plain
+11567681|M8 - 1.25|30mm|Socket Cap Screw|Stainless Steel|Plain
+11567682|M8 - 1.25|35mm|Socket Cap Screw|Stainless Steel|Plain
+11567684|M8 - 1.25|50mm|Socket Cap Screw|Stainless Steel|Plain
+11567685|M10 - 1.5|25mm|Socket Cap Screw|Stainless Steel|Plain
+11567686|M10 - 1.5|30mm|Socket Cap Screw|Stainless Steel|Plain
+11567687|M10 - 1.5|40mm|Socket Cap Screw|Stainless Steel|Plain
+40950|M6 - 1.0|70mm|Flat Socket Cap Screw|Alloy Steel|Black Oxide
+47873|M10-1.5|1 M|Threaded Rod|Steel|Plain
+M42510006A20000|M3 - 0.5|6mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42510012A20000|M3 - 0.5|12mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42530008A20000|M4 - 0.7|8mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42530012A40000|M4 - 0.7|12mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42530016A20000|M4 - 0.7|16mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42540008A20000|M5 - 0.8|8mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42540010A20000|M5 - 0.8|10mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42540012A20000|M5 - 0.8|12mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42540016A20000|M5 - 0.8|16mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42540030A20000|M5 - 0.8|30mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42540035A20000|M5 - 0.8|35mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42540040A20000|M5 - 0.8|40mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42540040A40000|M5 - 0.8|40mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42540050A20000|M5 - 0.8|50mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42550008A20000|M6 - 1.0|8mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42550012A20000|M6 - 1.0|12mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42550016A20000|M6 - 1.0|16mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42550020A20000|M6 - 1.0|20mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42550070A20000|M6 - 1.0|70mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42580012A20000|M8 - 1.25|12mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42580020A20000|M8 - 1.25|20mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42580025A20000|M8 - 1.25|25mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42600016A20000|M10 - 1.5|16mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42600025A20000|M10 - 1.5|25mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M42650025A20000|M12 - 1.75|25mm|Flat Socket Cap Screw|Stainless Steel|Plain
+M72600040A20000|M10-1.5|40mm|Hex Cap Screw|Stainless Steel|Plain
+M82540016A20000|M5-0.8|16mm|Hex Cap Screw|Stainless Steel|Plain
+M82540020A20000|M5-0.8|20mm|Hex Cap Screw|Stainless Steel|Plain
+M82580025A20000|M8-1.25|25mm|Hex Cap Screw|Stainless Steel|Plain
+M82600030A20000|M10-1.5|30mm|Hex Cap Screw|Stainless Steel|Plain
+M82600035A20000|M10-1.5|35mm|Hex Cap Screw|Stainless Steel|Plain
+M82600050A20000|M10-1.5|50mm|Hex Cap Screw|Stainless Steel|Plain
+MB2510006A20000|M3 - 0.5|6mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2510012A20000|M3 - 0.5|12mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2530008A20000|M4 - 0.7|8mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2530012A20000|M4 - 0.7|12mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2530016A20000|M4 - 0.7|16mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2540008A20000|M5 - 0.8|8mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2540012A20000|M5 - 0.8|12mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2540016A20000|M5 - 0.8|16mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2550008A20000|M6 - 1.0|8mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2550016A20000|M6 - 1.0|16mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2550045A20000|M6 - 1.0|45mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2580012A20000|M8 - 1.25|12mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2580020A20000|M8 - 1.25|20mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2600016A20000|M10 - 1.5|16mm|Button Socket Cap Screw|Stainless Steel|Plain
+MB2600020A20000|M10 - 1.5|20mm|Button Socket Cap Screw|Stainless Steel|Plain
+MN2540000A20000|M5-0.8|20mm|Hex Nut|Stainless Steel|Plain
+MN2550000A20000|M6-1.0|20mm|Hex Nut|Stainless Steel|Plain
+MN2580000A20000|M8-1.25|20mm|Hex Nut|Stainless Steel|Plain
+MS2460005A20000|M2 - 0.4|5mm|Socket Cap Screw|Stainless Steel|Plain
+MS2490008A20000|M2.5 - 0.45|8mm|Socket Cap Screw|Stainless Steel|Plain
+MS2510008A20000|M3 - 0.5|8mm|Socket Cap Screw|Stainless Steel|Plain
+MS2510010A20000|M3 - 0.5|10mm|Socket Cap Screw|Stainless Steel|Plain
+MS2510012A20000|M3 - 0.5|12mm|Socket Cap Screw|Stainless Steel|Plain
+MS2510014A20000|M3 - 0.5|14mm|Socket Cap Screw|Stainless Steel|Plain
+MS2510020A20000|M3 - 0.5|20mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530006A20000|M4 - 0.7|6mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530008A20000|M4 - 0.7|8mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530010A20000|M4 - 0.7|10mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530012A20000|M4 - 0.7|12mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530014A20000|M4 - 0.7|14mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530016A20000|M4 - 0.7|16mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530020A20000|M4 - 0.7|20mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530025A20000|M4 - 0.7|25mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530030A20000|M4 - 0.7|30mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530030A40000|M4 - 0.7|30mm|Socket Cap Screw|Stainless Steel|Plain
+MS2530035A20000|M4 - 0.7|35mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540006A20000|M5 - 0.8|6mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540008A20000|M5 - 0.8|8mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540010A20000|M5 - 0.8|10mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540012A20000|M5 - 0.8|12mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540014A20000|M5 - 0.8|14mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540016A20000|M5 - 0.8|16mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540016A40000|M5 - 0.8|16mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540020A20000|M5 - 0.8|20mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540025A20000|M5 - 0.8|25mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540025A40000|M5 - 0.8|25mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540030A20000|M5 - 0.8|30mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540035A20000|M5 - 0.8|35mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540040A20000|M5 - 0.8|40mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540045A20000|M5 - 0.8|45mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540050A20000|M5 - 0.8|50mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540055A20000|M5 - 0.8|55mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540060A20000|M5 - 0.8|60mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540065A20000|M5 - 0.8|65mm|Socket Cap Screw|Stainless Steel|Plain
+MS2540090A20000|M5 - 0.8|90mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550008A20000|M6 - 1.0|8mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550010A20000|M6 - 1.0|10mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550012A20000|M6 - 1.0|12mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550014A20000|M6 - 1.0|14mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550016A20000|M6 - 1.0|16mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550018A20000|M6 - 1.0|18mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550020A20000|M6 - 1.0|20mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550025A20000|M6 - 1.0|25mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550030A20000|M6 - 1.0|30mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550035A20000|M6 - 1.0|35mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550040A20000|M6 - 1.0|40mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550045A20000|M6 - 1.0|45mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550050A20000|M6 - 1.0|50mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550065A20000|M6 - 1.0|65mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550080A20000|M6 - 1.0|80mm|Socket Cap Screw|Stainless Steel|Plain
+MS2550090A20000|M6 - 1.0|90mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580012A20000|M8 - 1.25|12mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580016A20000|M8 - 1.25|16mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580020A20000|M8 - 1.25|20mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580025A20000|M8 - 1.25|25mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580030A20000|M8 - 1.25|30mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580035A20000|M8 - 1.25|35mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580045A20000|M8 - 1.25|45mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580050A20000|M8 - 1.25|50mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580060A20000|M8 - 1.25|60mm|Socket Cap Screw|Stainless Steel|Plain
+MS2580100A20000|M8 - 1.25|100mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600020A20000|M10 - 1.5|20mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600025A20000|M10 - 1.5|25mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600030A20000|M10 - 1.5|30mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600030A40000|M10 - 1.5|30mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600035A20000|M10 - 1.5|35mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600040A20000|M10 - 1.5|40mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600050A20000|M10 - 1.5|50mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600070A20000|M10 - 1.5|70mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600080A20000|M10 - 1.5|80mm|Socket Cap Screw|Stainless Steel|Plain
+MS2600100A20000|M10 - 1.5|100mm|Socket Cap Screw|Stainless Steel|Plain
+MS2650030A20000|M12 - 1.75|30mm|Socket Cap Screw|Stainless Steel|Plain
+MX2510003A20000|M3 - 0.5|3mm|Socket Set Screw|Stainless Steel|Plain
+MX2510006A20000|M3 - 0.5|6mm|Socket Set Screw|Stainless Steel|Plain
+MX2510012A20000|M3 - 0.5|12mm|Socket Set Screw|Stainless Steel|Plain
+MX2530006A20000|M4 - 0.7|6mm|Socket Set Screw|Stainless Steel|Plain
+MX2530012A20000|M4 - 0.7|12mm|Socket Set Screw|Stainless Steel|Plain
+MX2540005A20000|M5 - 0.8|5mm|Socket Set Screw|Stainless Steel|Plain
+MX2540006A20000|M5 - 0.8|6mm|Socket Set Screw|Stainless Steel|Plain
+MX2540012A20000|M5 - 0.8|12mm|Socket Set Screw|Stainless Steel|Plain
+MX2540016A20000|M5 - 0.8|16mm|Socket Set Screw|Stainless Steel|Plain
+MX2540020A20000|M5 - 0.8|20mm|Socket Set Screw|Stainless Steel|Plain
+MX2550006A20000|M6 - 1.0|6mm|Socket Set Screw|Stainless Steel|Plain
+MX2550010A20000|M6 - 1.0|10mm|Socket Set Screw|Stainless Steel|Plain
+MX2550016A20000|M6 - 1.0|16mm|Socket Set Screw|Stainless Steel|Plain
+MX2550025A20000|M6 - 1.0|25mm|Socket Set Screw|Stainless Steel|Plain
+MX2550035A20000|M6 - 1.0|35mm|Socket Set Screw|Stainless Steel|Plain
+MX2580025A20000|M8 - 1.25|25mm|Socket Set Screw|Stainless Steel|Plain
+MX2580045A20000|M8 - 1.25|45mm|Socket Set Screw|Stainless Steel|Plain
+MX2580060A20000|M8 - 1.25|60mm|Socket Set Screw|Stainless Steel|Plain
+MX2600016A20000|M10 - 1.5|16mm|Socket Set Screw|Stainless Steel|Plain
+MY2510008A20000|M3 - 0.5|8mm|Socket Set Screw|Stainless Steel|Plain
+ZS2600045ZP0000|M10 - 1.5|45mm|Socket Cap Screw|Steel|Zinc
