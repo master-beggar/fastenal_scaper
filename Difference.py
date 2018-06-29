@@ -1,9 +1,9 @@
 import os
 
-os.chdir(r'C:\Users\wnaimi\Desktop')
-fastener = 'Fasteners.txt'
-imperial = 'Imperial.txt'
-metric = 'Metric.txt'
+#os.chdir(r'C:\Users\wnaimi\Desktop')
+fastener = r'.\text_files\Fasteners.txt'
+imperial = r'.\text_files\Imperial.txt'
+metric = r'.\text_files\Metric.txt'
 
 metric_pn = set()
 imperial_pn = set()
@@ -33,6 +33,6 @@ with open(fastener) as file:
             fastener_pn.add(pn)
 
 diff_pn = all_pn^fastener_pn
-with open('Diff.txt', 'w') as file:
+with open(r'.\text_files\Diff.txt', 'w') as file:
     for part in diff_pn:
         file.write(part+'\n')
